@@ -1,4 +1,4 @@
-#WaGe
+# WaGe
 
 ## Local Setup
 
