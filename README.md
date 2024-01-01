@@ -1,4 +1,4 @@
-# Venue Booking site
+#WaGe
 
 ## Local Setup
 
