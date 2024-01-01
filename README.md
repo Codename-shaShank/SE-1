@@ -5,9 +5,9 @@
 1. clone it
 
 ```bash
-git clone https://github.com/akshay782/venue_booking_site.git
+git clone https://github.com/Codename-shaShank/WaGe.git
 # go to project directory
-cd venue_booking_site
+cd WaGe
 ```
 
 2. Install packages
@@ -27,9 +27,9 @@ PORT = 'the port in which you want to run your nodejs/backend'
 jwt_secret = 'your jwt secret'
 ```
 
-4. Run it 🚴‍♂️
+4. Run it 🏃‍♂️
 
-- Backend => First run following command in root directory, it will start server on port 2000
+- Backend => First run following command in root directory, it will start server on port 3001
 - Frontend => Second run same command in client side folder on another terminal, it will lauch react app
 
 ```bash
@@ -55,4 +55,4 @@ git push
 ```
 
 - **Note** \
-  Please don't commit on **main** branch
+  Please don't commit on **master** branch
